@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "name": "steam-stvn-oled-ui",
+    "version": "1.0.0",
+    "author": "Rafael Stevanato",
+    "description": "Dark OLED-optimized theme for Steam Millennium",
+    "homepage": "https://github.com/RafaelStevanato/steam-stvn-oled-ui"
+  },
+  "colors": {
+    "primary": "#C15F3C",
+    "secondary": "#6A9BCC",
+    "background": "#000000",
+    "surface": "#0A0A0A",
+    "surfaceAlt": "#121212",
+    "text": "#FFFFFF",
+    "textSecondary": "#B0B0B0",
+    "textTertiary": "#808080"
+  },
+  "settings": {
+    "theme": "oled-dark",
+    "rounded": true,
+    "minimalMode": true
+  }
+}
