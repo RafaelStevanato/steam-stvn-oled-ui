@@ -102,6 +102,7 @@ Just keep the license and attribution intact.
 - **Millennium Documentation:** https://docs.steambrew.app/
 - **Millennium Repository:** https://github.com/SteamClientHomebrew/Millennium
 - **Theme Template:** https://github.com/SteamClientHomebrew/ThemeTemplate
+- **Keep a Changelog Official Template:** https://keepachangelog.com/en/1.1.0/
 
 ---
 
